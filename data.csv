@@ -1,0 +1,1707 @@
+Year,Country of Origin Code,Country of Asylum Code,Country of Origin Name,Country of Asylum Name,Population Type,location,urbanRural,accommodationType,Female 0-4,Female 5-11,Female 12-17,Female 18-59,Female 60 or more,Female Unknown,Female Total,Male 0-4,Male 5-11,Male 12-17,Male 18-59,Male 60 or more,Male Unknown,Male Total,Total
+#date+year,#country+code+origin,#country+code+asylum,#country+name+origin,#country+name+asylum,#indicator+population_type,,,,#affected+f+infants+age_0_4,#affected+f+children+age_5_11,#affected+f+adolescents+age_12_17,#affected+f+adults+age_18_59,#affected+f+elderly+age_60,#affected+f+unknown_age,#affected+f+total,#affected+m+infants+age_0_4,#affected+m+children+age_5_11,#affected+m+adolescents+age_12_17,#affected+m+adults+age_18_59,#affected+m+elderly+age_60,#affected+m+unknown_age,#affected+m+total,#affected+all+total
+2001,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2001,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,9,0,0,9,14
+2001,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2001,ARG,MEX,Argentina,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2001,ARM,MEX,Armenia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2001,BDI,MEX,Burundi,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,BLR,MEX,Belarus,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2001,BIH,MEX,Bosnia and Herzegovina,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2001,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,7,0,0,7,0,0,0,6,0,5,11,18
+2001,COG,MEX,Congo,Mexico,REF,,,,8,0,0,0,0,0,8,0,0,0,8,0,0,8,16
+2001,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2001,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2001,COL,MEX,Colombia,Mexico,REF,,,,0,0,0,19,5,5,29,0,0,0,55,0,10,65,94
+2001,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,13,0,5,18,5,0,0,18,0,0,23,41
+2001,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2001,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2001,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2001,GTM,MEX,Guatemala,Mexico,REF,,,,800,0,0,2280,272,2743,6095,791,0,0,2712,274,2705,6482,12953
+2001,HTI,MEX,Haiti,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,9,0,0,9,14
+2001,HND,MEX,Honduras,Mexico,REF,,,,0,0,0,16,0,0,16,0,0,0,12,0,5,17,33
+2001,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,5,0,5,10,0,0,0,14,0,7,21,31
+2001,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,18,0,0,18,23
+2001,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,KEN,MEX,Kenya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,LBR,MEX,Liberia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2001,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,26,0,0,26,26
+2001,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,11,0,0,11,0,0,0,16,0,0,16,27
+2001,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,PAK,MEX,Pakistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2001,PER,MEX,Peru,Mexico,REF,,,,0,0,0,13,0,5,18,0,0,0,20,0,0,20,38
+2001,POL,MEX,Poland,Mexico,REF,,,,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2001,ROU,MEX,Romania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2001,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,7,0,0,7,12
+2001,RWA,MEX,Rwanda,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,SLV,MEX,El Salvador,Mexico,REF,,,,5,0,0,577,87,232,901,5,0,0,743,61,227,1036,1937
+2001,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,24,0,0,24,24
+2001,SOM,MEX,Somalia,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,43,0,0,43,48
+2001,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2001,SDN,MEX,Sudan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2001,TJK,MEX,Tajikistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,TGO,MEX,Togo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,TUN,MEX,Tunisia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,UKR,MEX,Ukraine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2001,USA,MEX,United States of America,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,YEM,MEX,Yemen,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2002,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2002,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,5,10,10
+2002,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2002,ARG,MEX,Argentina,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,BGD,MEX,Bangladesh,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2002,BLR,MEX,Belarus,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2002,BIH,MEX,Bosnia and Herzegovina,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2002,CMR,MEX,Cameroon,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,COG,MEX,Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,COG,MEX,Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2002,COD,MEX,Democratic Republic of the Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2002,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2002,COL,MEX,Colombia,Mexico,REF,,,,0,0,0,23,5,5,33,0,0,0,71,0,10,81,114
+2002,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2002,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,5,5,0,10,0,0,0,18,0,0,18,28
+2002,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2002,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2002,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2002,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,GTM,MEX,Guatemala,Mexico,REF,,,,554,0,0,2527,199,1711,4991,558,0,0,2808,196,1724,5286,10594
+2002,HTI,MEX,Haiti,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2002,HND,MEX,Honduras,Mexico,REF,,,,0,0,0,15,0,0,15,0,0,0,17,0,5,22,37
+2002,CIV,MEX,Côte d'Ivoire,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,IND,MEX,India,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,13,0,0,13,18
+2002,IRQ,MEX,Iraq,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2002,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,KEN,MEX,Kenya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,LBR,MEX,Liberia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2002,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,18,0,0,18,18
+2002,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,10,0,0,10,0,0,0,10,0,0,10,20
+2002,NGA,MEX,Nigeria,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2002,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2002,PER,MEX,Peru,Mexico,REF,,,,0,0,0,17,0,0,17,0,0,0,17,0,0,17,34
+2002,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,7,0,0,7,12
+2002,SLV,MEX,El Salvador,Mexico,REF,,,,0,0,0,659,98,169,926,5,0,0,775,67,140,987,1913
+2002,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2002,SOM,MEX,Somalia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,20,0,0,20,20
+2002,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2002,SDN,MEX,Sudan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2002,SYR,MEX,Syrian Arab Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,TJK,MEX,Tajikistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,TGO,MEX,Togo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,TUN,MEX,Tunisia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,UKR,MEX,Ukraine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2002,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2002,YEM,MEX,Yemen,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2003,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2003,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2003,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,BIH,MEX,Bosnia and Herzegovina,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,BLZ,MEX,Belize,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,CHN,MEX,China,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2003,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,5,0,5,0,0,0,0,0,0,0,5
+2003,COG,MEX,Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,COG,MEX,Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2003,COD,MEX,Democratic Republic of the Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2003,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2003,COL,MEX,Colombia,Mexico,REF,,,,0,0,0,20,0,0,20,0,0,0,23,0,5,28,48
+2003,CRI,MEX,Costa Rica,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2003,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,11,0,0,11,0,0,0,10,0,5,15,26
+2003,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,ERI,MEX,Eritrea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2003,ETH,MEX,Ethiopia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2003,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2003,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,GNB,MEX,Guinea-Bissau,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,GTM,MEX,Guatemala,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,7,0,0,7,12
+2003,GTM,MEX,Guatemala,Mexico,REF,,,,0,0,0,1252,297,84,1633,5,0,0,1807,260,94,2166,4116
+2003,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2003,HTI,MEX,Haiti,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2003,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2003,HND,MEX,Honduras,Mexico,REF,,,,0,0,0,16,0,0,16,0,0,0,17,0,5,22,38
+2003,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2003,IRN,MEX,Iran (Islamic Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,0,0,5,5,0,0,0,5,0,0,5,10
+2003,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2003,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,KEN,MEX,Kenya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,LBR,MEX,Liberia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2003,LBR,MEX,Liberia,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2003,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2003,NIC,MEX,Nicaragua,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,7,0,0,7,0,0,0,12,0,0,12,19
+2003,NGA,MEX,Nigeria,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2003,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,PER,MEX,Peru,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,PER,MEX,Peru,Mexico,REF,,,,0,0,0,5,0,5,10,0,0,0,12,0,0,12,22
+2003,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2003,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,SLV,MEX,El Salvador,Mexico,REF,,,,0,0,0,544,83,138,765,0,0,0,735,62,125,922,1687
+2003,SLE,MEX,Sierra Leone,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2003,SOM,MEX,Somalia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2003,SDN,MEX,Sudan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,SYR,MEX,Syrian Arab Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2003,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,ASY,,,,0,0,0,0,0,5,5,0,0,0,0,0,0,0,5
+2003,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2004,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ARM,MEX,Armenia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,BGD,MEX,Bangladesh,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5
+2004,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2004,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,COG,MEX,Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2004,COD,MEX,Democratic Republic of the Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,7,0,0,7,0,0,0,5,0,5,10,17
+2004,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2004,COL,MEX,Colombia,Mexico,REF,,,,0,0,0,21,0,5,26,0,0,0,24,0,5,29,55
+2004,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2004,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,12,0,0,12,0,0,0,15,0,0,15,27
+2004,CZE,MEX,Czechia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,DOM,MEX,Dominican Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ECU,MEX,Ecuador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,ERI,MEX,Eritrea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,29,0,0,29,29
+2004,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2004,ETH,MEX,Ethiopia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2004,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,13,0,0,13,18
+2004,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,GTM,MEX,Guatemala,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2004,GTM,MEX,Guatemala,Mexico,REF,,,,0,0,0,835,62,58,955,0,0,0,1282,54,83,1419,2374
+2004,GUY,MEX,Guyana,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2004,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2004,HTI,MEX,Haiti,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2004,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,16
+2004,HND,MEX,Honduras,Mexico,REF,,,,0,0,0,18,0,0,18,0,0,0,19,0,5,24,42
+2004,CIV,MEX,Côte d'Ivoire,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2004,IND,MEX,India,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2004,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2004,IRQ,MEX,Iraq,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2004,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,KEN,MEX,Kenya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,LBR,MEX,Liberia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2004,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2004,MMR,MEX,Myanmar,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2004,NIC,MEX,Nicaragua,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2004,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,9,0,0,9,0,0,0,10,0,0,10,19
+2004,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2004,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,PRY,MEX,Paraguay,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,PER,MEX,Peru,Mexico,REF,,,,0,0,0,9,0,0,9,0,0,0,11,0,0,11,20
+2004,ROU,MEX,Romania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2004,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2004,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,12
+2004,SLV,MEX,El Salvador,Mexico,REF,,,,0,0,0,548,84,85,717,0,0,0,762,86,116,964,1681
+2004,SLE,MEX,Sierra Leone,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2004,SOM,MEX,Somalia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2004,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2004,SDN,MEX,Sudan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,SDN,MEX,Sudan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,TUN,MEX,Tunisia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,USA,MEX,United States of America,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2004,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2005,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,AGO,MEX,Angola,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ARM,MEX,Armenia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ARM,MEX,Armenia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,BGD,MEX,Bangladesh,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,BRA,MEX,Brazil,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,CHN,MEX,China,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2005,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,CMR,MEX,Cameroon,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,COG,MEX,Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2005,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,9,0,5,14,0,0,0,15,0,7,22,36
+2005,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2005,COL,MEX,Colombia,Mexico,REF,,,,0,0,0,23,0,6,29,0,0,0,27,0,7,34,63
+2005,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,23,0,0,23,23
+2005,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,12,0,0,12,0,0,0,15,0,0,15,27
+2005,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,ERI,MEX,Eritrea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,15,0,0,15,15
+2005,ETH,MEX,Ethiopia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,15,0,0,15,15
+2005,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,PSE,MEX,State of Palestine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,GEO,MEX,Georgia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,GTM,MEX,Guatemala,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,7,0,0,7,12
+2005,GTM,MEX,Guatemala,Mexico,REF,,,,0,0,0,402,38,34,474,0,0,0,186,565,6,757,1231
+2005,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2005,HTI,MEX,Haiti,Mexico,REF,,,,0,0,0,5,0,5,10,0,0,0,9,0,0,9,19
+2005,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,HND,MEX,Honduras,Mexico,REF,,,,0,0,0,14,0,5,19,0,0,0,23,0,5,28,47
+2005,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,IND,MEX,India,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2005,IRN,MEX,Iran (Islamic Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2005,IRQ,MEX,Iraq,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2005,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,KEN,MEX,Kenya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,PRK,MEX,Democratic People's Republic of Korea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,LBR,MEX,Liberia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,LBN,MEX,Lebanon,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2005,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,MDA,MEX,Republic of Moldova,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,MAR,MEX,Morocco,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,MMR,MEX,Myanmar,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2005,MMR,MEX,Myanmar,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,NPL,MEX,Nepal,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2005,NIC,MEX,Nicaragua,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,9,0,0,9,0,0,0,10,0,0,10,19
+2005,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,PER,MEX,Peru,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,PER,MEX,Peru,Mexico,REF,,,,0,0,0,8,0,0,8,0,0,0,11,0,0,11,19
+2005,ROU,MEX,Romania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,RUS,MEX,Russian Federation,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,SLV,MEX,El Salvador,Mexico,REF,,,,0,0,0,561,82,85,728,0,0,0,812,20,120,952,1680
+2005,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,SOM,MEX,Somalia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2005,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,SDN,MEX,Sudan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,SDN,MEX,Sudan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,TUR,MEX,Turkey,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2005,TUR,MEX,Turkey,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,UZB,MEX,Uzbekistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2005,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,AFG,MEX,Afghanistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2006,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,ARM,MEX,Armenia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,BGD,MEX,Bangladesh,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,COG,MEX,Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2006,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,9,0,5,14,0,0,0,16,0,6,22,36
+2006,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,8,0,0,8,0,0,0,10,0,5,15,23
+2006,COL,MEX,Colombia,Mexico,REF,,,,0,0,0,44,5,5,54,0,0,0,35,0,10,45,99
+2006,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,13,0,0,13,0,0,0,17,0,0,17,30
+2006,ECU,MEX,Ecuador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ERI,MEX,Eritrea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2006,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,ETH,MEX,Ethiopia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2006,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,GTM,MEX,Guatemala,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2006,GTM,MEX,Guatemala,Mexico,REF,,,,0,0,0,403,38,33,474,0,0,0,187,565,5,757,1231
+2006,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,HTI,MEX,Haiti,Mexico,REF,,,,0,0,0,12,0,0,12,0,0,0,15,0,5,20,32
+2006,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,9,0,0,9,0,0,0,8,0,5,13,22
+2006,HND,MEX,Honduras,Mexico,REF,,,,0,0,0,19,0,0,19,0,0,0,23,0,5,28,47
+2006,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2006,IND,MEX,India,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,IRN,MEX,Iran (Islamic Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2006,IRQ,MEX,Iraq,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,9,9,9
+2006,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,KEN,MEX,Kenya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,PRK,MEX,Democratic People's Republic of Korea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,LBR,MEX,Liberia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,MMR,MEX,Myanmar,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,14,0,0,14,14
+2006,NPL,MEX,Nepal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,NPL,MEX,Nepal,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,NIC,MEX,Nicaragua,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,9,0,0,9,0,0,0,10,0,0,10,19
+2006,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,PER,MEX,Peru,Mexico,REF,,,,0,0,0,8,0,0,8,0,0,0,11,0,0,11,19
+2006,ROU,MEX,Romania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,5,0,5,10,0,0,0,7,0,5,12,22
+2006,SLV,MEX,El Salvador,Mexico,REF,,,,0,0,0,571,78,79,728,0,0,0,823,29,99,951,1679
+2006,SEN,MEX,Senegal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,SOM,MEX,Somalia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,13,0,0,13,13
+2006,SOM,MEX,Somalia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2006,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2006,SDN,MEX,Sudan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,SYR,MEX,Syrian Arab Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,TUR,MEX,Turkey,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,TUR,MEX,Turkey,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2006,UZB,MEX,Uzbekistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2006,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,BDI,MEX,Burundi,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,BRA,MEX,Brazil,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,CHL,MEX,Chile,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,CMR,MEX,Cameroon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,COG,MEX,Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2007,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,8,0,5,13,0,0,0,16,0,9,25,38
+2007,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2007,COL,MEX,Colombia,Mexico,REF,,,,0,0,0,34,7,12,53,5,0,0,70,5,8,88,147
+2007,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,8,0,0,8,0,0,0,12,0,0,12,20
+2007,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ERI,MEX,Eritrea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,ETH,MEX,Ethiopia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2007,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,GTM,MEX,Guatemala,Mexico,REF,,,,0,0,0,107,12,5,124,0,0,0,121,23,6,150,274
+2007,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,HTI,MEX,Haiti,Mexico,REF,,,,5,0,0,22,0,0,27,0,0,0,30,0,6,36,70
+2007,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,8,0,0,8,0,0,0,0,0,0,0,8
+2007,HND,MEX,Honduras,Mexico,REF,,,,0,0,0,7,0,0,7,0,0,0,18,0,5,23,30
+2007,CIV,MEX,Côte d'Ivoire,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2007,IND,MEX,India,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,IDN,MEX,Indonesia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2007,IRQ,MEX,Iraq,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,12,0,0,12,17
+2007,JAM,MEX,Jamaica,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,KEN,MEX,Kenya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,KOR,MEX,Republic of Korea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,PRK,MEX,Democratic People's Republic of Korea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,LAO,MEX,Lao People's Democratic Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,MKD,MEX,Republic of North Macedonia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,MKD,MEX,Republic of North Macedonia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,MMR,MEX,Myanmar,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2007,NPL,MEX,Nepal,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2007,NIC,MEX,Nicaragua,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2007,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,PER,MEX,Peru,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2007,ROU,MEX,Romania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,ROU,MEX,Romania,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,8,0,0,8,13
+2007,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2007,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2007,SLV,MEX,El Salvador,Mexico,REF,,,,0,0,0,292,54,7,353,0,0,5,457,46,8,516,869
+2007,SEN,MEX,Senegal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,SOM,MEX,Somalia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2007,SOM,MEX,Somalia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,VNM,MEX,Viet Nam,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,SDN,MEX,Sudan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2007,TUN,MEX,Tunisia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,TUR,MEX,Turkey,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,USA,MEX,United States of America,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,UZB,MEX,Uzbekistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2007,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,BDI,MEX,Burundi,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,BRA,MEX,Brazil,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,CHL,MEX,Chile,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,CMR,MEX,Cameroon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,COG,MEX,Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2008,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,5,8,0,5,18,0,0,0,13,0,9,22,40
+2008,COL,MEX,Colombia,Mexico,REF,,,,6,0,0,50,8,14,78,5,0,0,78,7,10,100,178
+2008,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,8,0,0,8,0,0,0,12,0,0,12,20
+2008,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2008,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,GTM,MEX,Guatemala,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,GTM,MEX,Guatemala,Mexico,REF,,,,0,0,0,56,20,32,108,0,0,0,101,16,49,166,274
+2008,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,HTI,MEX,Haiti,Mexico,REF,,,,7,0,0,26,0,11,44,5,0,0,62,0,15,82,126
+2008,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,HND,MEX,Honduras,Mexico,REF,,,,0,0,0,20,0,7,27,0,0,5,11,0,0,16,43
+2008,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2008,IND,MEX,India,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,IDN,MEX,Indonesia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2008,IRQ,MEX,Iraq,Mexico,REF,,,,5,0,0,6,0,0,11,0,0,0,18,0,6,24,35
+2008,JAM,MEX,Jamaica,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,KEN,MEX,Kenya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,KOR,MEX,Republic of Korea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,PRK,MEX,Democratic People's Republic of Korea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2008,MKD,MEX,Republic of North Macedonia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,MMR,MEX,Myanmar,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2008,NPL,MEX,Nepal,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2008,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2008,PER,MEX,Peru,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2008,ROU,MEX,Romania,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,8,0,0,8,13
+2008,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2008,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2008,SLV,MEX,El Salvador,Mexico,REF,,,,10,0,0,42,5,24,81,0,0,0,55,13,22,90,171
+2008,SEN,MEX,Senegal,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,SOM,MEX,Somalia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,VNM,MEX,Viet Nam,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,SDN,MEX,Sudan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2008,TGO,MEX,Togo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,TUN,MEX,Tunisia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,TUR,MEX,Turkey,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,UZB,MEX,Uzbekistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2008,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2009,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2009,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2009,BDI,MEX,Burundi,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2009,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,BRA,MEX,Brazil,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,CHN,MEX,China,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,15,0,0,15,15
+2009,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2009,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,CMR,MEX,Cameroon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2009,COG,MEX,Congo,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,7,0,0,7,12
+2009,COD,MEX,Democratic Republic of the Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,5,11,0,5,21,0,0,0,20,0,11,31,52
+2009,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,7,0,0,7,0,0,0,11,0,0,11,18
+2009,COL,MEX,Colombia,Mexico,REF,,,,8,0,0,51,8,21,88,5,0,0,88,10,19,122,210
+2009,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2009,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,10,0,0,10,0,0,0,12,0,0,12,22
+2009,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2009,ETH,MEX,Ethiopia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,10
+2009,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2009,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2009,GTM,MEX,Guatemala,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,GTM,MEX,Guatemala,Mexico,REF,,,,0,0,0,56,23,21,100,0,0,0,101,35,45,181,281
+2009,GIN,MEX,Guinea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,GIN,MEX,Guinea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2009,HTI,MEX,Haiti,Mexico,REF,,,,10,0,0,43,0,20,73,8,0,0,74,0,20,102,175
+2009,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2009,HND,MEX,Honduras,Mexico,REF,,,,0,0,0,23,0,8,31,0,0,0,13,5,0,18,49
+2009,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2009,IND,MEX,India,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,14,0,0,14,14
+2009,IND,MEX,India,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2009,IDN,MEX,Indonesia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,14
+2009,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,10,0,0,10,0,0,0,28,0,0,28,38
+2009,JAM,MEX,Jamaica,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,KEN,MEX,Kenya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,KOR,MEX,Republic of Korea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,PRK,MEX,Democratic People's Republic of Korea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,6,0,0,6,0,0,0,17,0,0,17,23
+2009,MKD,MEX,Republic of North Macedonia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,MMR,MEX,Myanmar,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2009,NPL,MEX,Nepal,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2009,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,6,0,0,6,0,0,0,6,0,0,6,12
+2009,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2009,PER,MEX,Peru,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2009,ROU,MEX,Romania,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,8,0,0,8,13
+2009,ZAF,MEX,South Africa,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2009,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,7,0,0,7,0,0,0,7,0,0,7,14
+2009,SLV,MEX,El Salvador,Mexico,REF,,,,5,0,0,45,12,5,67,0,0,0,67,26,23,116,183
+2009,SAU,MEX,Saudi Arabia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,SEN,MEX,Senegal,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,SOM,MEX,Somalia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,VNM,MEX,Viet Nam,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,SDN,MEX,Sudan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2009,TGO,MEX,Togo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,TUN,MEX,Tunisia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,TUR,MEX,Turkey,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2009,UGA,MEX,Uganda,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,USA,MEX,United States of America,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,UZB,MEX,Uzbekistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2009,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2009,ZWE,MEX,Zimbabwe,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2010,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,BDI,MEX,Burundi,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,BEN,MEX,Benin,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,BRA,MEX,Brazil,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,BLZ,MEX,Belize,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,BLZ,MEX,Belize,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,CHN,MEX,China,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,CMR,MEX,Cameroon,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,CMR,MEX,Cameroon,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2010,COG,MEX,Congo,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2010,COD,MEX,Democratic Republic of the Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2010,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,15,0,6,21,0,0,5,21,0,6,32,53
+2010,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,11,0,0,11,0,0,5,14,0,0,19,30
+2010,COL,MEX,Colombia,Mexico,REF,,,,5,0,0,70,0,19,94,0,0,5,117,0,17,139,233
+2010,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2010,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,10,0,0,10,0,0,0,20,0,0,20,30
+2010,CZE,MEX,Czechia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,DOM,MEX,Dominican Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ECU,MEX,Ecuador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,FRA,MEX,France,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,GHA,MEX,Ghana,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,GTM,MEX,Guatemala,Mexico,ASY,,,,0,0,0,11,0,0,11,0,0,0,13,0,0,13,24
+2010,GTM,MEX,Guatemala,Mexico,REF,,,,5,0,0,82,11,11,109,5,0,0,135,19,16,175,289
+2010,GIN,MEX,Guinea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,GIN,MEX,Guinea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,HTI,MEX,Haiti,Mexico,REF,,,,5,0,0,47,5,15,72,5,0,0,82,5,18,110,182
+2010,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,8,0,0,8,0,0,0,10,0,0,10,18
+2010,HND,MEX,Honduras,Mexico,REF,,,,0,0,5,13,0,5,23,0,0,0,30,0,16,46,69
+2010,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,IND,MEX,India,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,15,0,0,15,15
+2010,IND,MEX,India,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,15,0,0,15,15
+2010,IDN,MEX,Indonesia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,IRN,MEX,Iran (Islamic Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,17,0,0,17,22
+2010,IRQ,MEX,Iraq,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,36,0,0,36,41
+2010,JAM,MEX,Jamaica,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,KEN,MEX,Kenya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,KOR,MEX,Republic of Korea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,PRK,MEX,Democratic People's Republic of Korea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,36,0,0,36,41
+2010,MRT,MEX,Mauritania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,MKD,MEX,Republic of North Macedonia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,MMR,MEX,Myanmar,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,MMR,MEX,Myanmar,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,NPL,MEX,Nepal,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,11,0,0,11,11
+2010,NIC,MEX,Nicaragua,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,8,0,0,8,13
+2010,NGA,MEX,Nigeria,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,12,0,0,12,12
+2010,PAK,MEX,Pakistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,PAN,MEX,Panama,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,PER,MEX,Peru,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,PER,MEX,Peru,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,10,0,0,10,10
+2010,ROU,MEX,Romania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,13,0,0,13,13
+2010,ZAF,MEX,South Africa,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,12,0,0,12,0,0,0,15,0,0,15,27
+2010,SLV,MEX,El Salvador,Mexico,REF,,,,0,0,5,76,9,15,105,5,0,0,100,18,13,136,241
+2010,SAU,MEX,Saudi Arabia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,SEN,MEX,Senegal,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,SOM,MEX,Somalia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,SRB,MEX,Serbia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,VNM,MEX,Viet Nam,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,STA,MEX,Stateless,Mexico,STA,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,SDN,MEX,Sudan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,TGO,MEX,Togo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,TUN,MEX,Tunisia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,TUR,MEX,Turkey,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,UGA,MEX,Uganda,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,USA,MEX,United States of America,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2010,UZB,MEX,Uzbekistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2010,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2010,ZWE,MEX,Zimbabwe,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,EGY,MEX,Egypt,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ARG,MEX,Argentina,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2011,BDI,MEX,Burundi,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,BEN,MEX,Benin,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,BGD,MEX,Bangladesh,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,BRA,MEX,Brazil,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,BRA,MEX,Brazil,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,BLZ,MEX,Belize,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,BLZ,MEX,Belize,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,KHM,MEX,Cambodia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,CHN,MEX,China,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2011,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,CHL,MEX,Chile,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,CMR,MEX,Cameroon,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,CMR,MEX,Cameroon,Mexico,REF,,,,0,0,0,9,0,0,9,0,0,0,0,0,0,0,14
+2011,COG,MEX,Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,COG,MEX,Congo,Mexico,REF,,,,0,0,0,6,0,0,6,0,0,0,6,0,0,6,12
+2011,COD,MEX,Democratic Republic of the Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2011,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,15,0,6,21,0,0,5,21,0,6,32,60
+2011,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51
+2011,COL,MEX,Colombia,Mexico,REF,,,,5,0,0,69,0,19,93,0,0,5,118,0,18,141,252
+2011,CRI,MEX,Costa Rica,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49
+2011,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,9,0,0,9,0,0,0,19,0,0,19,33
+2011,DOM,MEX,Dominican Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,DOM,MEX,Dominican Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ECU,MEX,Ecuador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,GMB,MEX,Gambia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,PSE,MEX,State of Palestine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,GBR,MEX,United Kingdom of Great Britain and Northern Ireland,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,GHA,MEX,Ghana,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2011,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2011,GTM,MEX,Guatemala,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55
+2011,GTM,MEX,Guatemala,Mexico,REF,,,,5,0,0,82,11,12,110,5,0,0,138,20,16,179,326
+2011,GIN,MEX,Guinea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,GIN,MEX,Guinea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2011,HTI,MEX,Haiti,Mexico,REF,,,,5,0,0,47,5,15,72,5,0,0,82,5,18,110,191
+2011,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,147
+2011,HND,MEX,Honduras,Mexico,REF,,,,0,0,5,13,0,5,23,0,0,0,29,0,16,45,108
+2011,CIV,MEX,Côte d'Ivoire,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2011,IND,MEX,India,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+2011,IND,MEX,India,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,18,0,0,18,18
+2011,IDN,MEX,Indonesia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2011,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,19,0,0,19,24
+2011,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,36,0,0,36,41
+2011,ISR,MEX,Israel,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,JAM,MEX,Jamaica,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,KEN,MEX,Kenya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,KOR,MEX,Republic of Korea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,PRK,MEX,Democratic People's Republic of Korea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,LBR,MEX,Liberia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2011,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,36,0,0,36,61
+2011,MKD,MEX,Republic of North Macedonia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,MAR,MEX,Morocco,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,MMR,MEX,Myanmar,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,NPL,MEX,Nepal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2011,NPL,MEX,Nepal,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,10,0,0,10,15
+2011,NIC,MEX,Nicaragua,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2011,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,9,0,0,9,14
+2011,NGA,MEX,Nigeria,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2011,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,12,0,0,12,29
+2011,PAK,MEX,Pakistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2011,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,PAN,MEX,Panama,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,PER,MEX,Peru,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,PER,MEX,Peru,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,14
+2011,ROU,MEX,Romania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,13,0,0,13,13
+2011,ZAF,MEX,South Africa,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130
+2011,SLV,MEX,El Salvador,Mexico,REF,,,,0,0,5,76,9,15,105,5,0,0,100,18,13,136,319
+2011,SAU,MEX,Saudi Arabia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,SEN,MEX,Senegal,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,SLE,MEX,Sierra Leone,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,SOM,MEX,Somalia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,SRB,MEX,Serbia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,VNM,MEX,Viet Nam,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,STA,MEX,Stateless,Mexico,STA,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,SDN,MEX,Sudan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,SDN,MEX,Sudan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,TGO,MEX,Togo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,TUN,MEX,Tunisia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,TUR,MEX,Turkey,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2011,UGA,MEX,Uganda,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,USA,MEX,United States of America,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2011,UZB,MEX,Uzbekistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2011,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2011,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2011,ZWE,MEX,Zimbabwe,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2012,AFG,MEX,Afghanistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2012,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,EGY,MEX,Egypt,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,BDI,MEX,Burundi,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,BEN,MEX,Benin,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,BRA,MEX,Brazil,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,BLZ,MEX,Belize,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,BLZ,MEX,Belize,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,CMR,MEX,Cameroon,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,CMR,MEX,Cameroon,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2012,COG,MEX,Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,COG,MEX,Congo,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,6,0,0,6,11
+2012,COD,MEX,Democratic Republic of the Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2012,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,5,12,0,0,17,0,0,7,25,0,0,32,58
+2012,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37
+2012,COL,MEX,Colombia,Mexico,REF,,,,0,6,21,76,0,0,103,0,8,18,113,0,0,139,247
+2012,CRI,MEX,Costa Rica,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2012,CUB,MEX,Cuba,Mexico,REF,,,,0,0,5,10,0,0,15,0,5,0,21,0,0,26,41
+2012,CZE,MEX,Czechia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,DOM,MEX,Dominican Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,DOM,MEX,Dominican Republic,Mexico,REF,,,,0,0,6,0,0,0,6,0,0,0,0,0,0,0,6
+2012,ECU,MEX,Ecuador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2012,ETH,MEX,Ethiopia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,FRA,MEX,France,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,PSE,MEX,State of Palestine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,GHA,MEX,Ghana,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,GTM,MEX,Guatemala,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+2012,GTM,MEX,Guatemala,Mexico,REF,,,,8,14,25,89,0,0,136,0,9,19,140,0,0,168,312
+2012,GIN,MEX,Guinea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2012,HTI,MEX,Haiti,Mexico,REF,,,,0,7,10,50,0,0,67,0,5,11,90,0,0,106,173
+2012,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,78
+2012,HND,MEX,Honduras,Mexico,REF,,,,11,11,8,40,0,0,70,10,10,9,58,0,0,87,157
+2012,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,IND,MEX,India,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2012,IND,MEX,India,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2012,IDN,MEX,Indonesia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,11,0,0,11,22
+2012,IRQ,MEX,Iraq,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,10,0,0,10,0,0,0,21,0,0,21,31
+2012,JAM,MEX,Jamaica,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,LBY,MEX,Libya,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2012,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,17
+2012,MRT,MEX,Mauritania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,MKD,MEX,Republic of North Macedonia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,MMR,MEX,Myanmar,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,NAM,MEX,Namibia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,NPL,MEX,Nepal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,NIC,MEX,Nicaragua,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,6,0,0,6,0,0,0,8,0,0,8,14
+2012,NGA,MEX,Nigeria,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2012,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,PAK,MEX,Pakistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,PER,MEX,Peru,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,PER,MEX,Peru,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2012,ROU,MEX,Romania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2012,ZAF,MEX,South Africa,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2012,RWA,MEX,Rwanda,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65
+2012,SLV,MEX,El Salvador,Mexico,REF,,,,5,14,18,80,5,0,122,5,6,13,158,0,0,182,324
+2012,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,SOM,MEX,Somalia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,SRB,MEX,Serbia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,STA,MEX,Stateless,Mexico,STA,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2012,SYR,MEX,Syrian Arab Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2012,USA,MEX,United States of America,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2012,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2013,AFG,MEX,Afghanistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2013,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ALB,MEX,Albania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,EGY,MEX,Egypt,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,BDI,MEX,Burundi,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,BEN,MEX,Benin,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,BGD,MEX,Bangladesh,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2013,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,BRA,MEX,Brazil,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,BLZ,MEX,Belize,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,BLZ,MEX,Belize,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,CHN,MEX,China,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,CHL,MEX,Chile,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,CMR,MEX,Cameroon,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2013,CMR,MEX,Cameroon,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,8,0,0,8,13
+2013,COG,MEX,Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,COG,MEX,Congo,Mexico,REF,,,,0,0,0,7,0,0,7,0,5,0,5,0,0,10,17
+2013,COD,MEX,Democratic Republic of the Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2013,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,6,16,0,0,22,0,0,8,29,0,0,37,59
+2013,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68
+2013,COL,MEX,Colombia,Mexico,REF,,,,0,6,21,79,0,0,106,0,8,19,122,0,0,149,255
+2013,CRI,MEX,Costa Rica,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,116
+2013,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,15,0,0,15,0,5,0,23,0,0,28,43
+2013,CZE,MEX,Czechia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,DOM,MEX,Dominican Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2013,DOM,MEX,Dominican Republic,Mexico,REF,,,,0,0,8,0,0,0,8,0,0,0,0,0,0,0,8
+2013,ECU,MEX,Ecuador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2013,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2013,ETH,MEX,Ethiopia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,FRA,MEX,France,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,PSE,MEX,State of Palestine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,GHA,MEX,Ghana,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2013,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,GTM,MEX,Guatemala,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66
+2013,GTM,MEX,Guatemala,Mexico,REF,,,,6,16,25,99,0,0,146,0,9,19,150,0,0,178,324
+2013,GIN,MEX,Guinea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,GIN,MEX,Guinea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2013,HTI,MEX,Haiti,Mexico,REF,,,,0,5,13,65,0,0,83,0,5,7,80,0,0,92,175
+2013,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,479
+2013,HND,MEX,Honduras,Mexico,REF,,,,13,14,10,71,0,0,108,10,18,18,134,0,0,180,288
+2013,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,IND,MEX,India,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,109
+2013,IND,MEX,India,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2013,IDN,MEX,Indonesia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,IRN,MEX,Iran (Islamic Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,20,0,0,20,25
+2013,IRQ,MEX,Iraq,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,10,0,0,10,0,0,0,21,0,0,21,31
+2013,JAM,MEX,Jamaica,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,LBY,MEX,Libya,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,LBY,MEX,Libya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2013,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,14,0,0,14,19
+2013,MRT,MEX,Mauritania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,MKD,MEX,Republic of North Macedonia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,MAR,MEX,Morocco,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,MMR,MEX,Myanmar,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,NAM,MEX,Namibia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,NPL,MEX,Nepal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,NIC,MEX,Nicaragua,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2013,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,9,0,0,9,14
+2013,NGA,MEX,Nigeria,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39
+2013,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,13,0,0,13,18
+2013,PAK,MEX,Pakistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2013,PER,MEX,Peru,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,PER,MEX,Peru,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2013,ROU,MEX,Romania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2013,ZAF,MEX,South Africa,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,RUS,MEX,Russian Federation,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2013,RWA,MEX,Rwanda,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,274
+2013,SLV,MEX,El Salvador,Mexico,REF,,,,5,16,22,108,5,0,156,8,18,20,216,0,0,262,418
+2013,SEN,MEX,Senegal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,SGP,MEX,Singapore,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,SLE,MEX,Sierra Leone,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,SOM,MEX,Somalia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,STA,MEX,Stateless,Mexico,STA,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2013,SYR,MEX,Syrian Arab Republic,Mexico,REF,,,,0,0,5,0,0,0,5,0,0,0,8,0,0,8,13
+2013,TLS,MEX,Timor-Leste,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,TGO,MEX,Togo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,UKR,MEX,Ukraine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013,USA,MEX,United States of America,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2013,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2013,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2014,AFG,MEX,Afghanistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2014,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ALB,MEX,Albania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,EGY,MEX,Egypt,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,EGY,MEX,Egypt,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ARG,MEX,Argentina,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,BDI,MEX,Burundi,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,BEN,MEX,Benin,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,BGD,MEX,Bangladesh,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2014,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,BRA,MEX,Brazil,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,BLZ,MEX,Belize,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,BLZ,MEX,Belize,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,CAN,MEX,Canada,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,CHN,MEX,China,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,CHL,MEX,Chile,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,CMR,MEX,Cameroon,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2014,CMR,MEX,Cameroon,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,8,0,0,8,13
+2014,COG,MEX,Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,COG,MEX,Congo,Mexico,REF,,,,0,0,0,7,0,0,7,0,5,0,5,0,0,10,17
+2014,COD,MEX,Democratic Republic of the Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2014,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63
+2014,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79
+2014,COL,MEX,Colombia,Mexico,REF,,,,0,6,21,79,0,0,106,0,8,19,122,0,0,149,255
+2014,CRI,MEX,Costa Rica,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,197
+2014,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,15,0,0,15,0,0,0,0,0,0,0,43
+2014,CZE,MEX,Czechia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,DOM,MEX,Dominican Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2014,DOM,MEX,Dominican Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2014,ECU,MEX,Ecuador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2014,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,ERI,MEX,Eritrea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2014,ETH,MEX,Ethiopia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2014,FRA,MEX,France,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,PSE,MEX,State of Palestine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,GHA,MEX,Ghana,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2014,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2014,GTM,MEX,Guatemala,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118
+2014,GTM,MEX,Guatemala,Mexico,REF,,,,6,16,25,99,0,0,146,0,9,19,150,0,0,178,324
+2014,GIN,MEX,Guinea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2014,GIN,MEX,Guinea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52
+2014,HTI,MEX,Haiti,Mexico,REF,,,,0,6,12,65,0,0,83,0,5,7,80,0,0,92,175
+2014,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1247
+2014,HND,MEX,Honduras,Mexico,REF,,,,13,14,10,71,0,0,108,10,18,18,134,0,0,180,288
+2014,CIV,MEX,Côte d'Ivoire,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,IND,MEX,India,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,133
+2014,IND,MEX,India,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2014,IDN,MEX,Indonesia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,IRN,MEX,Iran (Islamic Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,20,0,0,20,25
+2014,IRQ,MEX,Iraq,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,10,0,0,10,0,0,0,21,0,0,21,31
+2014,JAM,MEX,Jamaica,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,LBY,MEX,Libya,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,LBY,MEX,Libya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2014,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,14,0,0,14,19
+2014,MRT,MEX,Mauritania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,MKD,MEX,Republic of North Macedonia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,MAR,MEX,Morocco,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,MMR,MEX,Myanmar,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,NAM,MEX,Namibia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,NPL,MEX,Nepal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2014,NIC,MEX,Nicaragua,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49
+2014,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,9,0,0,9,14
+2014,NGA,MEX,Nigeria,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50
+2014,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,13,0,0,13,18
+2014,PAK,MEX,Pakistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2014,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2014,PER,MEX,Peru,Mexico,REF,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2014,ROU,MEX,Romania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2014,ZAF,MEX,South Africa,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,RUS,MEX,Russian Federation,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2014,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2014,RWA,MEX,Rwanda,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,692
+2014,SLV,MEX,El Salvador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,418
+2014,SEN,MEX,Senegal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,SGP,MEX,Singapore,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,SLE,MEX,Sierra Leone,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,SOM,MEX,Somalia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2014,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,STA,MEX,Stateless,Mexico,STA,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2014,SYR,MEX,Syrian Arab Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2014,SYR,MEX,Syrian Arab Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2014,TLS,MEX,Timor-Leste,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,TGO,MEX,Togo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014,UKR,MEX,Ukraine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2014,USA,MEX,United States of America,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2014,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45
+2014,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2015,AFG,MEX,Afghanistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2015,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ALB,MEX,Albania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,EGY,MEX,Egypt,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,BDI,MEX,Burundi,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,BEN,MEX,Benin,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,BGD,MEX,Bangladesh,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2015,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,BRA,MEX,Brazil,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,BLZ,MEX,Belize,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,BLZ,MEX,Belize,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,CHN,MEX,China,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,CHL,MEX,Chile,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,CMR,MEX,Cameroon,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2015,CMR,MEX,Cameroon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15
+2015,COG,MEX,Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,COG,MEX,Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2015,COD,MEX,Democratic Republic of the Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2015,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69
+2015,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68
+2015,COL,MEX,Colombia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,264
+2015,CRI,MEX,Costa Rica,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,116
+2015,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44
+2015,CZE,MEX,Czechia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,DOM,MEX,Dominican Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2015,DOM,MEX,Dominican Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2015,ECU,MEX,Ecuador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2015,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2015,ETH,MEX,Ethiopia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2015,FRA,MEX,France,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,PSE,MEX,State of Palestine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,GHA,MEX,Ghana,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2015,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,GTM,MEX,Guatemala,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66
+2015,GTM,MEX,Guatemala,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,358
+2015,GIN,MEX,Guinea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,GIN,MEX,Guinea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2015,HTI,MEX,Haiti,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,175
+2015,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,481
+2015,HND,MEX,Honduras,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,727
+2015,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,IND,MEX,India,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,109
+2015,IND,MEX,India,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2015,IDN,MEX,Indonesia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,IRN,MEX,Iran (Islamic Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
+2015,IRQ,MEX,Iraq,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34
+2015,JAM,MEX,Jamaica,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,LBY,MEX,Libya,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,LBY,MEX,Libya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2015,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2015,MRT,MEX,Mauritania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,MKD,MEX,Republic of North Macedonia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,MAR,MEX,Morocco,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,MMR,MEX,Myanmar,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,NAM,MEX,Namibia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,NPL,MEX,Nepal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,NIC,MEX,Nicaragua,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2015,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2015,NGA,MEX,Nigeria,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39
+2015,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22
+2015,PAK,MEX,Pakistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,PAN,MEX,Panama,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,PER,MEX,Peru,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2015,ROU,MEX,Romania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2015,ZAF,MEX,South Africa,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,RUS,MEX,Russian Federation,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2015,RWA,MEX,Rwanda,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,274
+2015,SLV,MEX,El Salvador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,946
+2015,SEN,MEX,Senegal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,SGP,MEX,Singapore,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,SLE,MEX,Sierra Leone,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,SOM,MEX,Somalia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,SOM,MEX,Somalia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,STA,MEX,Stateless,Mexico,STA,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2015,SYR,MEX,Syrian Arab Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2015,TLS,MEX,Timor-Leste,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,TGO,MEX,Togo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,TUR,MEX,Turkey,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,UKR,MEX,Ukraine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,UKR,MEX,Ukraine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,USA,MEX,United States of America,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2015,USA,MEX,United States of America,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2015,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37
+2016,AFG,MEX,Afghanistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2016,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ALB,MEX,Albania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2016,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2016,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,EGY,MEX,Egypt,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,ARG,MEX,Argentina,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,BDI,MEX,Burundi,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,BEN,MEX,Benin,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,BGD,MEX,Bangladesh,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2016,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,BRA,MEX,Brazil,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,BRA,MEX,Brazil,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,BLZ,MEX,Belize,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,BLZ,MEX,Belize,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,CHN,MEX,China,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,CHL,MEX,Chile,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,CMR,MEX,Cameroon,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2016,CMR,MEX,Cameroon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2016,COG,MEX,Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,COG,MEX,Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2016,COD,MEX,Democratic Republic of the Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2016,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,70
+2016,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73
+2016,COL,MEX,Colombia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,276
+2016,CRI,MEX,Costa Rica,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120
+2016,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47
+2016,CZE,MEX,Czechia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,DOM,MEX,Dominican Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2016,DOM,MEX,Dominican Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2016,ECU,MEX,Ecuador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2016,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ERI,MEX,Eritrea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2016,ETH,MEX,Ethiopia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2016,FRA,MEX,France,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,PSE,MEX,State of Palestine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,GHA,MEX,Ghana,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+2016,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,GTM,MEX,Guatemala,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,124
+2016,GTM,MEX,Guatemala,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,509
+2016,GIN,MEX,Guinea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,GIN,MEX,Guinea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56
+2016,HTI,MEX,Haiti,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,180
+2016,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1022
+2016,HND,MEX,Honduras,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2126
+2016,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,IND,MEX,India,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113
+2016,IND,MEX,India,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2016,IDN,MEX,Indonesia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,IRN,MEX,Iran (Islamic Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27
+2016,IRQ,MEX,Iraq,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42
+2016,JAM,MEX,Jamaica,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,LBY,MEX,Libya,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,LBY,MEX,Libya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2016,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2016,MRT,MEX,Mauritania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,MKD,MEX,Republic of North Macedonia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,MAR,MEX,Morocco,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,MMR,MEX,Myanmar,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,NAM,MEX,Namibia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,NPL,MEX,Nepal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,NIC,MEX,Nicaragua,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+2016,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26
+2016,NGA,MEX,Nigeria,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39
+2016,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2016,PAK,MEX,Pakistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2016,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2016,PAN,MEX,Panama,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,PAN,MEX,Panama,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,PER,MEX,Peru,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2016,ROU,MEX,Romania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2016,ZAF,MEX,South Africa,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,RUS,MEX,Russian Federation,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2016,RWA,MEX,Rwanda,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,764
+2016,SLV,MEX,El Salvador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2366
+2016,SEN,MEX,Senegal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,SGP,MEX,Singapore,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,SLE,MEX,Sierra Leone,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,SOM,MEX,Somalia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,SOM,MEX,Somalia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,STA,MEX,Stateless,Mexico,STA,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2016,SYR,MEX,Syrian Arab Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2016,TLS,MEX,Timor-Leste,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,TGO,MEX,Togo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2016,TUR,MEX,Turkey,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2016,UKR,MEX,Ukraine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,UKR,MEX,Ukraine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2016,URY,MEX,Uruguay,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,USA,MEX,United States of America,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+2016,USA,MEX,United States of America,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,116
+2016,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,278
+2017,AFG,MEX,Afghanistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2017,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ALB,MEX,Albania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2017,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2017,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,EGY,MEX,Egypt,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,ARG,MEX,Argentina,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,BDI,MEX,Burundi,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,BEN,MEX,Benin,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,BGD,MEX,Bangladesh,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2017,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,BRA,MEX,Brazil,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,BRA,MEX,Brazil,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,BLZ,MEX,Belize,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,BLZ,MEX,Belize,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,CAN,MEX,Canada,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,CAF,MEX,Central African Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,CHN,MEX,China,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,CHL,MEX,Chile,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,CMR,MEX,Cameroon,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68
+2017,CMR,MEX,Cameroon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2017,COG,MEX,Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2017,COG,MEX,Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2017,COD,MEX,Democratic Republic of the Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2017,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68
+2017,COL,MEX,Colombia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,137
+2017,COL,MEX,Colombia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,284
+2017,CRI,MEX,Costa Rica,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,CUB,MEX,Cuba,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,244
+2017,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69
+2017,CZE,MEX,Czechia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,DOM,MEX,Dominican Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2017,DOM,MEX,Dominican Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2017,ECU,MEX,Ecuador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2017,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,GNQ,MEX,Equatorial Guinea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ERI,MEX,Eritrea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2017,ETH,MEX,Ethiopia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2017,FRA,MEX,France,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,GMB,MEX,Gambia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,PSE,MEX,State of Palestine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,GHA,MEX,Ghana,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38
+2017,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2017,GTM,MEX,Guatemala,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,429
+2017,GTM,MEX,Guatemala,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,627
+2017,GIN,MEX,Guinea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2017,GIN,MEX,Guinea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,HTI,MEX,Haiti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,429
+2017,HTI,MEX,Haiti,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,179
+2017,HND,MEX,Honduras,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2983
+2017,HND,MEX,Honduras,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2895
+2017,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,IND,MEX,India,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,114
+2017,IND,MEX,India,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2017,IDN,MEX,Indonesia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,IRN,MEX,Iran (Islamic Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+2017,IRQ,MEX,Iraq,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2017,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42
+2017,ISR,MEX,Israel,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,ITA,MEX,Italy,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,JAM,MEX,Jamaica,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,JOR,MEX,Jordan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,LBY,MEX,Libya,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,LBY,MEX,Libya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2017,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2017,MRT,MEX,Mauritania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,MKD,MEX,Republic of North Macedonia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,MKD,MEX,Republic of North Macedonia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,MAR,MEX,Morocco,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,MMR,MEX,Myanmar,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,NAM,MEX,Namibia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,NPL,MEX,Nepal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,NIC,MEX,Nicaragua,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57
+2017,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2017,NGA,MEX,Nigeria,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41
+2017,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25
+2017,PAK,MEX,Pakistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2017,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2017,PAN,MEX,Panama,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,PAN,MEX,Panama,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,PER,MEX,Peru,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,PER,MEX,Peru,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2017,ROU,MEX,Romania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2017,ZAF,MEX,South Africa,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,RUS,MEX,Russian Federation,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11
+2017,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+2017,RWA,MEX,Rwanda,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,SLV,MEX,El Salvador,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2418
+2017,SLV,MEX,El Salvador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3332
+2017,SEN,MEX,Senegal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,SGP,MEX,Singapore,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,SLE,MEX,Sierra Leone,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,SOM,MEX,Somalia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2017,SOM,MEX,Somalia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,STA,MEX,Stateless,Mexico,STA,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2017,SYR,MEX,Syrian Arab Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23
+2017,TLS,MEX,Timor-Leste,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,TGO,MEX,Togo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,TUR,MEX,Turkey,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2017,UGA,MEX,Uganda,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,UKR,MEX,Ukraine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,UKR,MEX,Ukraine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2017,URY,MEX,Uruguay,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,USA,MEX,United States of America,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2017,USA,MEX,United States of America,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017,UZB,MEX,Uzbekistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3183
+2017,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1185
+2017,YEM,MEX,Yemen,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2017,YEM,MEX,Yemen,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ALB,MEX,Albania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2018,DZA,MEX,Algeria,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,AGO,MEX,Angola,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,EGY,MEX,Egypt,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,ARG,MEX,Argentina,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2018,ARG,MEX,Argentina,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,BDI,MEX,Burundi,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,BEN,MEX,Benin,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,BGD,MEX,Bangladesh,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,BFA,MEX,Burkina Faso,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2018,BOL,MEX,Bolivia (Plurinational State of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,BRA,MEX,Brazil,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,BRA,MEX,Brazil,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,BLZ,MEX,Belize,Mexico,ASY,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2018,BLZ,MEX,Belize,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,KHM,MEX,Cambodia,Mexico,ASY,,,,0,0,8,11,0,0,19,0,7,0,18,0,0,25,44
+2018,KHM,MEX,Cambodia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2018,CAN,MEX,Canada,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,CAF,MEX,Central African Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,CHN,MEX,China,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2018,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,CHL,MEX,Chile,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2018,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,COG,MEX,Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2018,COG,MEX,Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2018,COD,MEX,Democratic Republic of the Congo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2018,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63
+2018,COL,MEX,Colombia,Mexico,ASY,,,,8,6,9,63,0,0,86,6,0,10,84,0,0,100,186
+2018,COL,MEX,Colombia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,311
+2018,CRI,MEX,Costa Rica,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2018,CUB,MEX,Cuba,Mexico,ASY,,,,5,6,0,49,0,0,60,5,5,5,140,0,0,155,215
+2018,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79
+2018,CZE,MEX,Czechia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,DJI,MEX,Djibouti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,DOM,MEX,Dominican Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2018,DOM,MEX,Dominican Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2018,ECU,MEX,Ecuador,Mexico,ASY,,,,0,0,0,8,0,0,8,0,0,0,6,0,0,6,14
+2018,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2018,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,FRA,MEX,France,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,PSE,MEX,State of Palestine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,GBR,MEX,United Kingdom of Great Britain and Northern Ireland,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,GHA,MEX,Ghana,Mexico,ASY,,,,0,0,5,0,0,0,5,0,5,0,18,0,0,23,28
+2018,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2018,GNB,MEX,Guinea-Bissau,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,GTM,MEX,Guatemala,Mexico,ASY,,,,42,62,44,278,5,0,431,34,65,52,448,9,0,608,1039
+2018,GTM,MEX,Guatemala,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,847
+2018,GIN,MEX,Guinea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2018,GIN,MEX,Guinea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,HTI,MEX,Haiti,Mexico,ASY,,,,0,5,7,76,0,0,88,5,6,7,277,5,0,300,388
+2018,HTI,MEX,Haiti,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,187
+2018,HKG,MEX,"China, Hong Kong Special Administrative Region",Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,HND,MEX,Honduras,Mexico,ASY,,,,378,601,335,2788,56,0,4158,452,696,492,4704,67,0,6411,10569
+2018,HND,MEX,Honduras,Mexico,OOC,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41189
+2018,HND,MEX,Honduras,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4656
+2018,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,IND,MEX,India,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,5,0,0,0,5,5
+2018,IND,MEX,India,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2018,IDN,MEX,Indonesia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,IRN,MEX,Iran (Islamic Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38
+2018,IRQ,MEX,Iraq,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2018,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43
+2018,ITA,MEX,Italy,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ITA,MEX,Italy,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,JAM,MEX,Jamaica,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2018,JAM,MEX,Jamaica,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,KGZ,MEX,Kyrgyzstan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,LBY,MEX,Libya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,LKA,MEX,Sri Lanka,Mexico,ASY,,,,0,0,0,9,0,0,9,0,0,0,6,0,0,6,15
+2018,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2018,MKD,MEX,Republic of North Macedonia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,MLI,MEX,Mali,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,MAR,MEX,Morocco,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,NIC,MEX,Nicaragua,Mexico,ASY,,,,31,52,19,259,10,0,371,33,41,31,592,6,0,703,1074
+2018,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100
+2018,NGA,MEX,Nigeria,Mexico,ASY,,,,0,6,0,0,0,0,6,0,0,0,10,0,0,10,16
+2018,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2018,PAK,MEX,Pakistan,Mexico,ASY,,,,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2018,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9
+2018,PAN,MEX,Panama,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,PAN,MEX,Panama,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,PER,MEX,Peru,Mexico,ASY,,,,0,0,7,0,0,0,7,0,0,0,0,0,0,0,7
+2018,PER,MEX,Peru,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2018,PRT,MEX,Portugal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,PRT,MEX,Portugal,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2018,ROU,MEX,Romania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2018,ZAF,MEX,South Africa,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2018,ZAF,MEX,South Africa,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,RUS,MEX,Russian Federation,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2018,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30
+2018,RWA,MEX,Rwanda,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,SLV,MEX,El Salvador,Mexico,ASY,,,,156,199,147,1227,24,0,1753,174,237,198,2143,22,0,2774,4527
+2018,SLV,MEX,El Salvador,Mexico,OOC,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22242
+2018,SLV,MEX,El Salvador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5155
+2018,SEN,MEX,Senegal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,SEN,MEX,Senegal,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,SLE,MEX,Sierra Leone,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,SOM,MEX,Somalia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2018,SOM,MEX,Somalia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,ESP,MEX,Spain,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2018,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,STA,MEX,Stateless,Mexico,STA,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2018,SYR,MEX,Syrian Arab Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2018,SYR,MEX,Syrian Arab Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+2018,TZA,MEX,United Republic of Tanzania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,TGO,MEX,Togo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,TTO,MEX,Trinidad and Tobago,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,TUR,MEX,Turkey,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018,TUR,MEX,Turkey,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2018,UGA,MEX,Uganda,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,10,0,0,10,15
+2018,UKN,MEX,Various / unknown,Mexico,OOC,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19562
+2018,UKR,MEX,Ukraine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2018,UKR,MEX,Ukraine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2018,URY,MEX,Uruguay,Mexico,ASY,,,,0,5,0,0,0,0,5,0,0,0,0,0,0,0,5
+2018,USA,MEX,United States of America,Mexico,ASY,,,,0,8,0,10,0,0,18,0,5,0,10,0,0,15,33
+2018,USA,MEX,United States of America,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2018,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,ASY,,,,120,218,131,1952,94,0,2515,148,218,163,2407,72,0,3008,5523
+2018,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4721
+2018,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,VDA,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42104
+2018,YEM,MEX,Yemen,Mexico,ASY,,,,0,0,0,0,0,0,0,0,5,0,16,0,0,21,21
+2018,YEM,MEX,Yemen,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2019,AFG,MEX,Afghanistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,AFG,MEX,Afghanistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ALB,MEX,Albania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ALB,MEX,Albania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2019,DZA,MEX,Algeria,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,DZA,MEX,Algeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,AGO,MEX,Angola,Mexico,ASY,,,,6,15,13,49,0,0,83,10,22,13,51,0,0,96,179
+2019,AGO,MEX,Angola,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,EGY,MEX,Egypt,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,EGY,MEX,Egypt,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,ARG,MEX,Argentina,Mexico,ASY,,,,0,0,0,9,0,0,9,5,0,0,15,0,0,20,29
+2019,ARG,MEX,Argentina,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,BDI,MEX,Burundi,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,BDI,MEX,Burundi,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,BEN,MEX,Benin,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2019,BGD,MEX,Bangladesh,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2019,BGD,MEX,Bangladesh,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2019,BFA,MEX,Burkina Faso,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,14,0,0,14,14
+2019,BOL,MEX,Bolivia (Plurinational State of),Mexico,ASY,,,,0,0,0,6,0,0,6,0,0,0,0,0,0,0,6
+2019,BOL,MEX,Bolivia (Plurinational State of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,BRA,MEX,Brazil,Mexico,ASY,,,,244,13,0,7,0,0,264,258,16,0,5,0,0,279,543
+2019,BRA,MEX,Brazil,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,BLZ,MEX,Belize,Mexico,ASY,,,,0,0,0,8,0,0,8,6,0,5,6,0,0,17,25
+2019,BLZ,MEX,Belize,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2019,KHM,MEX,Cambodia,Mexico,ASY,,,,0,0,8,11,0,0,19,0,7,0,18,0,0,25,54
+2019,KHM,MEX,Cambodia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24
+2019,CAN,MEX,Canada,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,CAF,MEX,Central African Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,CHN,MEX,China,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,0,0,0,0,5
+2019,CHN,MEX,China,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,CHL,MEX,Chile,Mexico,ASY,,,,191,0,0,9,0,0,200,184,5,0,10,0,0,199,399
+2019,CHL,MEX,Chile,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,CMR,MEX,Cameroon,Mexico,ASY,,,,0,0,5,140,0,0,145,0,0,0,336,0,0,336,481
+2019,CMR,MEX,Cameroon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,COG,MEX,Congo,Mexico,ASY,,,,0,0,7,7,0,0,14,0,5,0,13,0,0,18,32
+2019,COG,MEX,Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21
+2019,COD,MEX,Democratic Republic of the Congo,Mexico,ASY,,,,13,15,16,66,0,0,110,11,15,9,77,0,0,112,222
+2019,COD,MEX,Democratic Republic of the Congo,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62
+2019,COL,MEX,Colombia,Mexico,ASY,,,,16,28,16,209,8,0,277,18,17,27,284,6,0,352,629
+2019,COL,MEX,Colombia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,351
+2019,CRI,MEX,Costa Rica,Mexico,ASY,,,,6,5,5,6,0,0,22,0,0,9,12,0,0,21,48
+2019,CUB,MEX,Cuba,Mexico,ASY,,,,58,61,53,2135,12,0,2319,45,90,48,4224,20,0,4427,6774
+2019,CUB,MEX,Cuba,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,325
+2019,CZE,MEX,Czechia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,DJI,MEX,Djibouti,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,DOM,MEX,Dominican Republic,Mexico,ASY,,,,0,0,0,8,0,0,8,0,0,0,31,0,0,31,39
+2019,DOM,MEX,Dominican Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2019,ECU,MEX,Ecuador,Mexico,ASY,,,,0,9,0,20,0,0,29,10,5,0,30,5,0,50,79
+2019,ECU,MEX,Ecuador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2019,ERI,MEX,Eritrea,Mexico,ASY,,,,0,0,0,7,0,0,7,0,0,0,54,0,0,54,61
+2019,ERI,MEX,Eritrea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2019,ETH,MEX,Ethiopia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,13,0,0,13,13
+2019,ETH,MEX,Ethiopia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,FRA,MEX,France,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,GAB,MEX,Gabon,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,GMB,MEX,Gambia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,PSE,MEX,State of Palestine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,PSE,MEX,State of Palestine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,GBR,MEX,United Kingdom of Great Britain and Northern Ireland,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,GEO,MEX,Georgia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,GHA,MEX,Ghana,Mexico,ASY,,,,0,0,6,15,0,0,21,0,0,5,79,0,0,84,111
+2019,GHA,MEX,Ghana,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2019,GNB,MEX,Guinea-Bissau,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,GNB,MEX,Guinea-Bissau,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,GTM,MEX,Guatemala,Mexico,ASY,,,,173,228,169,993,16,0,1579,163,249,168,1441,31,0,2052,3685
+2019,GTM,MEX,Guatemala,Mexico,OOC,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47796
+2019,GTM,MEX,Guatemala,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1250
+2019,GIN,MEX,Guinea,Mexico,ASY,,,,5,0,0,6,0,0,11,0,0,5,35,0,0,40,51
+2019,GIN,MEX,Guinea,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,GUY,MEX,Guyana,Mexico,ASY,,,,0,0,0,0,0,0,0,5,0,0,0,0,0,5,5
+2019,HTI,MEX,Haiti,Mexico,ASY,,,,99,196,83,1955,0,0,2333,79,166,83,2899,6,0,3233,5588
+2019,HTI,MEX,Haiti,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,221
+2019,HKG,MEX,"China, Hong Kong Special Administrative Region",Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,HND,MEX,Honduras,Mexico,ASY,,,,1429,1979,1107,7750,96,0,12361,1510,2217,1512,11771,136,0,17146,30030
+2019,HND,MEX,Honduras,Mexico,OOC,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66987
+2019,HND,MEX,Honduras,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9257
+2019,HRV,MEX,Croatia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,CIV,MEX,Côte d'Ivoire,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,CIV,MEX,Côte d'Ivoire,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,IND,MEX,India,Mexico,ASY,,,,0,0,0,6,0,0,6,0,0,6,41,0,0,47,58
+2019,IND,MEX,India,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12
+2019,IDN,MEX,Indonesia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,IRN,MEX,Iran (Islamic Republic of),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2019,IRN,MEX,Iran (Islamic Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39
+2019,IRQ,MEX,Iraq,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,IRQ,MEX,Iraq,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43
+2019,ISR,MEX,Israel,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ITA,MEX,Italy,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,ITA,MEX,Italy,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,JAM,MEX,Jamaica,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,JAM,MEX,Jamaica,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+2019,JOR,MEX,Jordan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,JPN,MEX,Japan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,KGZ,MEX,Kyrgyzstan,Mexico,ASY,,,,0,5,0,0,0,0,5,6,0,0,0,0,0,6,11
+2019,KOR,MEX,Republic of Korea,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,LBR,MEX,Liberia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,LBY,MEX,Libya,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,LBN,MEX,Lebanon,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,LKA,MEX,Sri Lanka,Mexico,ASY,,,,5,0,0,5,0,0,10,0,0,0,35,0,0,35,45
+2019,LKA,MEX,Sri Lanka,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+2019,MAF,MEX,Saint Martin (French part),Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,MRT,MEX,Mauritania,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,7,0,0,7,7
+2019,MKD,MEX,Republic of North Macedonia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,MLI,MEX,Mali,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,MLI,MEX,Mali,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,MAR,MEX,Morocco,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,MAR,MEX,Morocco,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,NPL,MEX,Nepal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2019,NIC,MEX,Nicaragua,Mexico,ASY,,,,71,97,46,584,15,0,813,67,91,79,1240,16,0,1493,2316
+2019,NIC,MEX,Nicaragua,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,545
+2019,NGA,MEX,Nigeria,Mexico,ASY,,,,0,0,0,8,0,0,8,0,0,0,16,0,0,16,24
+2019,NGA,MEX,Nigeria,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36
+2019,PAK,MEX,Pakistan,Mexico,ASY,,,,0,5,0,0,0,0,5,0,0,0,6,0,0,6,11
+2019,PAK,MEX,Pakistan,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+2019,PAN,MEX,Panama,Mexico,ASY,,,,5,0,0,0,0,0,5,6,0,0,0,0,0,6,11
+2019,PAN,MEX,Panama,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,PRY,MEX,Paraguay,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,PER,MEX,Peru,Mexico,ASY,,,,6,0,0,7,0,0,13,5,0,0,7,0,0,12,25
+2019,PER,MEX,Peru,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16
+2019,POL,MEX,Poland,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,PRT,MEX,Portugal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,PRT,MEX,Portugal,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,ROU,MEX,Romania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7
+2019,ZAF,MEX,South Africa,Mexico,ASY,,,,0,0,0,6,0,0,6,0,0,0,5,0,0,5,11
+2019,ZAF,MEX,South Africa,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,RUS,MEX,Russian Federation,Mexico,ASY,,,,6,0,0,0,0,0,6,0,0,0,18,0,0,18,24
+2019,RUS,MEX,Russian Federation,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39
+2019,RWA,MEX,Rwanda,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,SLV,MEX,El Salvador,Mexico,ASY,,,,364,478,306,2672,52,0,3872,381,524,420,4322,44,0,5691,9700
+2019,SLV,MEX,El Salvador,Mexico,OOC,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25927
+2019,SLV,MEX,El Salvador,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7244
+2019,SEN,MEX,Senegal,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,SEN,MEX,Senegal,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,SLE,MEX,Sierra Leone,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2019,SLE,MEX,Sierra Leone,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+2019,SOM,MEX,Somalia,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,6,0,0,6,6
+2019,SOM,MEX,Somalia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,ESP,MEX,Spain,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,5,0,0,5,10
+2019,SRB,MEX,Serbia,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,STA,MEX,Stateless,Mexico,STA,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
+2019,SDN,MEX,Sudan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,5,0,0,5,5
+2019,SYR,MEX,Syrian Arab Republic,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,8,0,0,8,8
+2019,SYR,MEX,Syrian Arab Republic,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+2019,TZA,MEX,United Republic of Tanzania,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,TJK,MEX,Tajikistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,TGO,MEX,Togo,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,9,0,0,9,9
+2019,TTO,MEX,Trinidad and Tobago,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,TUR,MEX,Turkey,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,TUR,MEX,Turkey,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8
+2019,UGA,MEX,Uganda,Mexico,ASY,,,,6,0,5,18,0,0,29,7,0,0,30,0,0,37,66
+2019,UKR,MEX,Ukraine,Mexico,ASY,,,,0,0,0,0,0,0,0,0,5,0,0,0,0,5,5
+2019,UKR,MEX,Ukraine,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17
+2019,URY,MEX,Uruguay,Mexico,ASY,,,,0,5,0,0,0,0,5,5,0,0,5,0,0,10,15
+2019,USA,MEX,United States of America,Mexico,ASY,,,,7,11,5,6,0,0,29,0,5,9,17,0,0,31,60
+2019,USA,MEX,United States of America,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18
+2019,UZB,MEX,Uzbekistan,Mexico,ASY,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2019,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,ASY,,,,167,331,215,3184,181,0,4078,201,329,258,3624,124,0,4536,8682
+2019,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8781
+2019,VEN,MEX,Venezuela (Bolivarian Republic of),Mexico,VDA,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52982
+2019,YEM,MEX,Yemen,Mexico,ASY,,,,0,0,0,5,0,0,5,0,0,0,25,0,0,25,30
+2019,YEM,MEX,Yemen,Mexico,REF,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13
