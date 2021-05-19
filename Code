@@ -1,0 +1,95 @@
+df = pd.read_csv("/home/klrdmh/jupyter/data.csv")
+df.head()
+
+# Drop unecessary columns
+df1 = df.drop(['Country of Asylum Code', 'Country of Asylum Name', 'Population Type', 'location', 'urbanRural', 'accommodationType', 'Female 0-4', 'Female 5-11', 'Female 12-17', 'Female 18-59', 'Female 60 or more', 'Female Unknown', 'Female Total', 'Male 0-4', 'Male 5-11', 'Male 12-17', 'Male 18-59', 'Male 60 or more', 'Male Unknown', 'Male Total'], axis = 1)
+df1.head()
+
+# Rename some columns
+df1.rename(columns = {'Country of Origin Code' : 'CODE', 'Country of Origin Name' : 'name'}, inplace = True)
+df1.head()
+
+# Our dataset includes data from 2001 to 2019. This will subset to only
+# use data from the latest year in the dataset, year 2019
+df2 = df1[df1['Year']=='2019']
+df2.head()
+
+# Check all unique values in the Year column to make sure only 2019 is displayed.
+df2.Year.unique()
+
+# List out all unique country codes which we will need later
+codes = df2.CODE.unique()
+print(codes)
+
+# Drop first row since it is only a string of descriptive information
+df3 = df2.drop(df2.index[0])
+df3.head()
+
+# Make sure all data type from the 'Total' column is numeric
+df3.Total = pd.to_numeric(df3.Total)
+df3.head()
+
+# Add totals by grouping country codes
+df4 = df3.groupby(['CODE'],as_index=False).agg({'Total': 'sum'})
+df4.head() 
+
+# Since our dataframe already comes with existing country codes in alpha-3 letters all we have to do
+# is merge our data with geopandas dataset through the column CODE
+world = gp.read_file(gp.datasets.get_path('naturalearth_lowres'))
+world.columns=['pop_est', 'continent', 'name', 'CODE', 'gdp_md_est', 'geometry']
+merge=pd.merge(world,df4,on='CODE')
+
+# Merge data again with our location data which contains each country’s latitude and longitude
+# I found someone with the data already on a github repo. I could very easily forked the data and read
+# out of my own github account but I'd rather keep them here to retain credit for them
+location=pd.read_csv('https://raw.githubusercontent.com/melanieshi0120/COVID-19_global_time_series_panel_data/master/data/countries_latitude_longitude.csv')
+df5=merge.merge(location,on='name').reset_index()
+df5.head()
+
+# Keep only country codes that originially existed in the refugee data set. The geopandas data that was
+# merged in the previous step brought along a lot of excess data
+df_final = df5[df5['CODE'].isin(codes)]
+df_final.head()
+
+# Sort data by Total column values
+df_sorted = df_final.sort_values(by=['Total'], ascending=False)
+df_sorted.head(20)
+
+# Subset top 5 countries with only other necessary columns
+df6 = df_final.nlargest(10,['Total'])
+df7= df6[['name', 'CODE','Total']]
+df7.head(10)
+
+# Plot using matplotlib
+df7.set_index(df7.name,drop=True,inplace=True)
+pd.Series(df7.Total).plot(kind="barh")
+
+# Drop rows where total equals zero
+df_ch = df_sorted[(df_sorted[['Total']] != 0).all(axis=1)]
+df_ch.tail(60)
+
+# Since most countries show values of less than 100, this map range will be 0 to 100
+fig = px.choropleth(df_f, locations="CODE", color="Total",
+                     hover_name="name", 
+                    range_color=[0,100],
+                     projection="natural earth")
+
+fig.update_layout(title='Least refugees')
+fig.show()
+
+# Use folium's interactive map tile
+world_map= folium.Map(tiles="cartodbpositron")
+marker_cluster = MarkerCluster().add_to(world_map)
+
+# circlemarker() is used here to asssign radius and color variables
+for i in range(len(df_final)):
+        lat = df_final.iloc[i]['latitude']
+        long = df_final.iloc[i]['longitude']
+        radius = 5
+        popup_text = """Country : {}<br>
+                    Number of Refugees in 2019 : {}<br>"""
+        popup_text = popup_text.format(df_final.iloc[i]['name'],
+                                   df_final.iloc[i]['Total'])
+        folium.CircleMarker(location = [lat, long], radius=radius, popup= popup_text, fill =True).add_to(marker_cluster)
+
+world_map
