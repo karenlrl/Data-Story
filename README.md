@@ -1,3 +1,4 @@
+```
 # Installed all necessary external packages
 # Import all necessary packages and read in data
 import pandas as pd
@@ -7,3 +8,4 @@ import matplotlib.pyplot as plot
 import plotly.express as px
 import folium
 from folium.plugins import MarkerCluster
+```
